@@ -243,7 +243,7 @@ Aible OS 欢迎社区贡献！你可以：
 
 ## 🔒 安全
 
-- API 密钥存储在用户目录的 `config.json`，不会被提交到 git
+- API 密钥存储在用户目录的 `config.json`
 - 前端密码框使用 `type="password"` 掩码显示
 - 运行时内部路径不会暴露到前端
 - `.env` 已加入 `.gitignore`
@@ -253,4 +253,4 @@ Aible OS 欢迎社区贡献！你可以：
 
 ## 📄 License
 
-MIT — 欢迎 Fork、修改、分发。这是画图的第一个 AI 开源项目 🎉
+MIT — 欢迎 Fork、修改、分发。这是我的第一个 AI 开源项目 🎉
