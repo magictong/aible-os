@@ -1,0 +1,10 @@
+app_id: code-helper
+name: 代码助手
+tagline: 写代码、调试、解释，一站搞定
+description: 帮你编写、调试、解释和优化代码。支持多种编程语言，从简单脚本到复杂算法。
+icon: 💻
+category: 开发
+color: from-orange-500 to-red-600
+author: Aible OS
+capabilities:
+  - llm.chat

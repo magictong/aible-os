@@ -1,0 +1,10 @@
+app_id: storyteller
+name: 故事工坊
+tagline: 用 AI 写出打动人心的故事
+description: 让 AI 为你创作精彩故事。支持童话、科幻、悬疑、言情等多种类型，可续写、改写、扩写。
+icon: 📖
+category: 创作
+color: from-violet-500 to-purple-600
+author: Aible OS
+capabilities:
+  - llm.chat

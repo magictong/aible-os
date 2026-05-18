@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+
+# Node
+node_modules/
+.next/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+frontend/out/
+frontend/dist/
+runtime/dist/
+runtime/build/
+frontend/src-tauri/target/
+frontend/src-tauri/venv/
+frontend/src-tauri/resources/venv/
+frontend/src-tauri/binaries/aible-os-backend-*
+frontend/.next/

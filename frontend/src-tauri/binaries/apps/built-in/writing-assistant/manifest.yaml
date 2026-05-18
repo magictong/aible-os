@@ -1,0 +1,10 @@
+app_id: writing-assistant
+name: 写作助手
+tagline: 帮你写文章、文案、邮件、故事
+description: 无论是工作邮件、公众号文章，还是短视频脚本，写作助手都能帮你快速产出高质量内容。支持多种写作风格和场景。
+icon: ✍️
+category: 写作
+color: from-blue-500 to-indigo-600
+author: Aible OS
+capabilities:
+  - llm.chat

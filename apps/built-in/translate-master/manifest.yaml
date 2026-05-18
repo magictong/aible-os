@@ -1,0 +1,10 @@
+app_id: translate-master
+name: 翻译大师
+tagline: 多语言互译，精准地道
+description: 支持中、英、日、韩、法、德等主流语言的互译。不只是翻译，还能润色、本地化适配。
+icon: 🌐
+category: 工具
+color: from-green-500 to-teal-600
+author: Aible OS
+capabilities:
+  - llm.chat

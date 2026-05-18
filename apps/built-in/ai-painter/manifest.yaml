@@ -1,0 +1,10 @@
+app_id: ai-painter
+name: AI 绘画
+tagline: 文字描述生成精美图片
+description: 输入你的想象，AI 为你画出画面。支持多种风格：写实、动漫、油画、水彩、赛博朋克。
+icon: 🎨
+category: 创作
+color: from-purple-500 to-pink-600
+author: Aible OS
+capabilities:
+  - llm.chat
