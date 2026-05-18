@@ -82,9 +82,11 @@ v0.1 只是第一步。后续版本将支持更强大的 App 类型：
 
 ## 🚀 快速使用
 
-### 下载已打包的应用
+### 下载已打包的应用（推荐）
 
-从 Releases 下载 `Aible OS_x.x.x_aarch64.dmg`，安装后打开：
+[![Download](https://img.shields.io/github/v/release/magictong/aible-os?label=Download&color=blue)](https://github.com/magictong/aible-os/releases/latest)
+
+从 [Releases](https://github.com/magictong/aible-os/releases) 下载 `Aible_OS_x.x.x_aarch64.dmg` 安装包，解压安装后打开：
 
 1. 点击右上角 ⚙️ 设置
 2. 填写 LLM API Key / Base URL / Model
